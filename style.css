@@ -1468,6 +1468,10 @@ input.checkbox-hidden {
         flex-direction: column;
         gap: 32px;
     }
+
+    .big-form__title {
+        max-width: 350px;
+    }
 }
 
 .consequences {
